@@ -1,5 +1,6 @@
 # OutVitel
 https://kkrisztiann.github.io/OutVitel/
+
 Egy televízió és internetszolgáltató cégnél dolgoztok.A főnökötöknek már nem tetszik a régi céges weboldal, szeretne egy teljesen újjal előrukkolni, hogy minél több ügyfelet csalogasson az a céghez.A főnököd a következő utasításokat adja neked:
 
 1.A weboldal jó helyet foglaljon el a Google találati listáján, tehát tegyetek meg mindent annak érdekében, hogy az oldalatok előre kerülhessen!
