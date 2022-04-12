@@ -37,15 +37,16 @@ footer{
     flex-direction: row;
     justify-content: space-between;
 }
-h1{
+#fooldalcim{
     text-align: center;
     font-size: 40px;
+    margin-top: 50%;
     color: rgb(0, 38, 71);
 }
 #gyikcim{
-        text-align: center;
-        font-size: 40px;
-        color: rgb(0, 38, 71);
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0, 38, 71);
 }
 @keyframes forgas{
     from{
