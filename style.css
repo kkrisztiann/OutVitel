@@ -6,6 +6,9 @@ hr{
     border: 1px solid black;
     margin: 1%;
 }
+#szaz{
+    float: left;
+}
 #logo{
     height: 250px;
     animation-name: forgas;
