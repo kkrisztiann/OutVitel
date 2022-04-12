@@ -79,7 +79,7 @@ ul.topnav {
   
   ul.topnav li a:hover:not(.active) {background-color: #111;}
   
-  ul.topnav li a.active {background-color: #04AA6D;}
+  ul.topnav li a.active {background-color: rgb(24, 26, 187)}
   
   ul.topnav li.right {float: right;}
   
